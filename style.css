@@ -1,0 +1,173 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+.fotobusan {
+    line-height: 660px;
+    object-fit: cover;
+    overflow: hidden;
+    width: 100%;
+
+}
+
+.divhead p {
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 24px;
+    line-height: 22px;
+    color: #333333;
+    padding-inline: 2%;
+    
+}
+
+.headline {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 22px;
+    color: #E1624F;
+    margin-bottom: 8px;
+    
+}
+
+.headline_B {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 22px;
+    color: #E1624F;
+    margin-bottom: 2px;
+
+}
+
+
+
+
+h1 {
+    font-size: 36px;
+    line-height: 49px;
+    margin-bottom: 44px;
+}
+
+h2 {
+    margin-bottom: 8px;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 4px;
+}
+
+
+main {
+   
+    box-sizing: border-box;
+    width: 1120px;
+    padding: 40px;
+    margin: 88px auto;
+    text-align: left;
+    
+
+}
+
+
+
+.section_A {
+    margin-top: 64px;
+}
+
+.section_A h1 {
+    margin-top: 2px;
+}
+
+.section_A p {
+    margin-top: 8px;
+}
+
+.foto_A {
+    width: 100%;
+    margin-top: 64px;
+}
+
+.foto_B {
+    width: 100%;
+    margin-top: 48px;
+
+}
+
+
+li {
+    list-style-position: inside;
+}
+
+
+li::marker {
+    color: black;
+}
+
+
+.beomeo_itemA {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+
+.haedong_itemA {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+.young_itemA {
+    color: #591B98;
+    font-weight: bold;
+}
+
+.young_itemB {
+    color: #E5245E;
+    font-weight: bold;
+}
+
+.young_itemC {
+    color: #E95E10;
+    font-weight: bold;
+}
+
+
+.final {
+    text-align: center;
+    
+}
+
+.divider {
+    width: 100%;
+    height: 1px;
+    margin: 36px 0;
+    background-color: #d9d9d9;
+  }
+
+
+  footer {
+
+    text-align: center;
+    width: 206;
+    margin: auto;
+    margin-top: 65px;
+    margin-bottom: 48px;
+    box-sizing: border-box;
+    font-family:"Alice", serif;;
+
+
+  }
+
+
+  .imgFooter {
+    vertical-align: middle;
+  }
+  
